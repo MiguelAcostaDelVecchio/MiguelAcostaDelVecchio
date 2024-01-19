@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at KBR as a Software Engineer doing Modeling and Simulation in Python and MATLAB
+- 🔭 I am a Software Engineer at KBR doing Modeling and Simulation in Python and MATLAB
 - 🏫 Graduated from Temple University in May of 2022 with a Bachelor of Science in Electrical Engineering
 - 🌱 I’m currently learning SwiftUI 
 - 😄 I’m looking to publish an app to the Apple App Store
